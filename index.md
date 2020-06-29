@@ -1,12 +1,5 @@
+
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>title</title>
-  </head>
-  <body>
-  
-  <!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -240,8 +233,4 @@ function myfunction() {
 }
 </script>
 </body>
-</html>
-
-  
-  </body>
 </html>
